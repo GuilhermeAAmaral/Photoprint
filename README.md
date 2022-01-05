@@ -2,7 +2,7 @@ README
 
 Título: Photoprint.
 
-Descrição: O projeto consiste em um album digital com buscador e foi realizado como requisito do porcesso seletivo para vaga de Desenvolvedor Frontend na Leadster.
+Descrição: O projeto consiste em um album digital com buscador de fotografias online. 
 
 Funcionalidades: Página inicial, busca de imagens e tendências.
 
